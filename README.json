@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": "⭐ Star us on GitHub! Your support means the world to us! 🙏😊\nWhy this repo? · Skill Sources · Categories · Quick Start · Contributing",
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1174221628,
             "language": "Python",
             "last_commit": "2026-03-08T12:11:24Z",
             "owner": "ddd9898",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1175303530,
             "language": "Python",
             "last_commit": "2026-03-16T07:01:16Z",
             "owner": "qishisuren123",
@@ -33,105 +35,10 @@
         }
       ],
       "title": "Latest News"
-    },
-    {
-      "description": "Thousands of Agent Skills are scattered across official registries and community repos. A researcher who needs to run a gene ontology enrichment, draft a grant proposal, and plot dose-response curves shouldn't have to dig through 30,000+ entries to find the right three skills. And once found, they shouldn't have to wire them together from scratch.",
-      "items": [],
-      "title": "The Problem"
-    },
-    {
-      "description": "Build a single, clone-ready repository of high-quality skills selected and organized for scientific research — spanning bioinformatics, cheminformatics, data analysis, scientific writing, literature search, and beyond.",
-      "items": [],
-      "title": "The Goal"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Why This Repo?"
-    },
-    {
-      "description": "We draw from two tiers of upstream repositories:",
-      "items": [],
-      "title": "Skill Sources"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Official Skill Registries"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Community Curations"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Science-Specific"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Specialized Domain Tools (Top Priority)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Academic Writing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Literature Search"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Neuroscience"
-    },
-    {
-      "description": "Below is the target taxonomy. Skills from the sources above are mapped into these categories. Checked boxes indicate categories already well-covered upstream; unchecked indicate gaps we aim to fill.",
-      "items": [],
-      "title": "Scientific Skill Categories"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Quick Start"
-    },
-    {
-      "description": "Explore the [Skill Sources](#Skill Sources) above, find what you need, and copy individual skill folders into your project:",
-      "items": [],
-      "title": "Option 1 — Browse and pick"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Option 2 — Clone the science stack (Phase 2)"
-    },
-    {
-      "description": "Not every skill makes the cut. We apply these filters:",
-      "items": [],
-      "title": "Selection Criteria"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Security Notice"
-    },
-    {
-      "description": "Companion open-source tools from our team for skill generation and repository evaluation:",
-      "items": [],
-      "title": "Related Projects"
-    },
-    {
-      "description": "This curated list is released under MIT. Individual skills retain their own licenses as specified in their respective files.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T08:50:43.537Z",
+    "last_updated": "2026-08-19T08:51:25.852Z",
     "original_repository": "InternScience/Awesome-Scientific-Skills",
     "original_repository_sha": "e67760e2081508773a59398f72bf808f3ac3217c",
     "enhanced_repository": "enhansome/enhansome-Awesome-Scientific-Skills",
