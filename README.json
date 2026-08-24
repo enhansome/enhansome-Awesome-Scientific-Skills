@@ -35,10 +35,596 @@
         }
       ],
       "title": "Latest News"
+    },
+    {
+      "description": "We draw from two tiers of upstream repositories:",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "anthropics/skills",
+              "description": "Anthropic's official Agent Skills — skill-creator, web artifacts, MCP builder, brand guidelines, and more",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1061953414,
+                "language": "Python",
+                "last_commit": "2026-08-21T17:10:55Z",
+                "owner": "anthropics",
+                "repo": "skills",
+                "stars": 171325
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "openai/skills",
+              "description": "OpenAI's official skill definitions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1103643573,
+                "language": "Python",
+                "last_commit": "2026-07-14T16:47:46Z",
+                "owner": "openai",
+                "repo": "skills",
+                "stars": 25158
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "huggingface/skills",
+              "description": "Hugging Face's skill collection for model-centric workflows",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1102903896,
+                "language": "Python",
+                "last_commit": "2026-08-18T15:35:11Z",
+                "owner": "huggingface",
+                "repo": "skills",
+                "stars": 10955
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "openclaw/clawhub",
+              "description": "OpenClaw's community skill registry (13,700+ skills)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1127248221,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T07:27:19Z",
+                "owner": "openclaw",
+                "repo": "clawhub",
+                "stars": 9345
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official Skill Registries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "VoltAgent/awesome-openclaw-skills",
+              "description": "25K+ 5,400+ skills filtered from ClawHub — the largest community-curated awesome list",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1141704318,
+                "language": null,
+                "last_commit": "2026-08-23T08:45:20Z",
+                "owner": "VoltAgent",
+                "repo": "awesome-openclaw-skills",
+                "stars": 52150
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "travisvn/awesome-claude-skills",
+              "description": "7K+ Curated Claude Skills with detailed progressive-disclosure architecture docs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1077850011,
+                "language": null,
+                "last_commit": "2026-04-28T19:30:24Z",
+                "owner": "travisvn",
+                "repo": "awesome-claude-skills",
+                "stars": 14800
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ComposioHQ/awesome-claude-skills",
+              "description": "39K+ 50+ verified skills for Claude Code / Claude.ai / API, plus 500+ app integrations via Composio",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1078079172,
+                "language": "Python",
+                "last_commit": "2026-08-10T21:45:44Z",
+                "owner": "ComposioHQ",
+                "repo": "awesome-claude-skills",
+                "stars": 73143
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "heilcheng/awesome-agent-skills",
+              "description": "2K+ Cross-agent skill collection",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1124920990,
+                "language": "TypeScript",
+                "last_commit": "2026-04-05T20:39:24Z",
+                "owner": "heilcheng",
+                "repo": "awesome-agent-skills",
+                "stars": 6136
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InternScience/scp/skills",
+              "description": "113 206 scientific skills spanning drug discovery, genomics, protein engineering, chemistry, and related research workflows",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1024351267,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-06-03T09:48:41Z",
+                "owner": "InternScience",
+                "repo": "scp",
+                "stars": 164
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "obra/superpowers/skills",
+              "description": "68K+ Opinionated \"superpowers\" skill set for power users",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1073224795,
+                "language": "Shell",
+                "last_commit": "2026-08-19T17:33:23Z",
+                "owner": "obra",
+                "repo": "superpowers",
+                "stars": 276923
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vercel-labs/agent-skills",
+              "description": "21K+ Vercel Labs' experimental agent skill toolkit",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1112540808,
+                "language": "JavaScript",
+                "last_commit": "2026-08-21T18:55:51Z",
+                "owner": "vercel-labs",
+                "repo": "agent-skills",
+                "stars": 30410
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nextlevelbuilder/ui-ux-pro-max-skill",
+              "description": "36K+ UI/UX focused skill for high-fidelity frontend generation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1106996539,
+                "language": "Python",
+                "last_commit": "2026-08-24T13:55:44Z",
+                "owner": "nextlevelbuilder",
+                "repo": "ui-ux-pro-max-skill",
+                "stars": 120470
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "coreyhaines31/marketingskills",
+              "description": "11K+ Marketing-oriented agent skills for CRO, copywriting, SEO, analytics, and growth workflows",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1135212071,
+                "language": "JavaScript",
+                "last_commit": "2026-08-23T22:08:07Z",
+                "owner": "coreyhaines31",
+                "repo": "marketingskills",
+                "stars": 45435
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "agentskills/agentskills",
+              "description": "12K+ Official specification and documentation for the open Agent Skills standard",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1117639997,
+                "language": "Python",
+                "last_commit": "2026-08-09T20:36:04Z",
+                "owner": "agentskills",
+                "repo": "agentskills",
+                "stars": 24652
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kepano/obsidian-skills",
+              "description": "12K+ Agent skills for Obsidian workflows (Markdown, Bases, JSON Canvas, and CLI integration)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1126947080,
+                "language": null,
+                "last_commit": "2026-06-08T16:12:01Z",
+                "owner": "kepano",
+                "repo": "obsidian-skills",
+                "stars": 47169
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+              "description": "13K+ Comprehensive skill collection for context engineering and production multi-agent systems",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1120349776,
+                "language": "Python",
+                "last_commit": "2026-08-19T01:55:00Z",
+                "owner": "muratcankoylan",
+                "repo": "Agent-Skills-for-Context-Engineering",
+                "stars": 17811
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ynulihao/AgentSkillOS",
+              "description": "233 Searchable skill retrieval and orchestration system for building agents from 90,000+ skills",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1141918448,
+                "language": "HTML",
+                "last_commit": "2026-03-07T16:51:24Z",
+                "owner": "ynulihao",
+                "repo": "AgentSkillOS",
+                "stars": 606
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OthmanAdi/planning-with-files",
+              "description": "15K+ Persistent markdown planning workflow skill for Claude Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1127110039,
+                "language": "Shell",
+                "last_commit": "2026-08-22T11:09:40Z",
+                "owner": "OthmanAdi",
+                "repo": "planning-with-files",
+                "stars": 26334
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sickn33/antigravity-awesome-skills",
+              "description": "20K+ Large cross-agent collection (900+ skills) for Claude Code, Antigravity, and Cursor",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1134426800,
+                "language": "Python",
+                "last_commit": "2026-08-24T05:30:55Z",
+                "owner": "sickn33",
+                "repo": "agentic-awesome-skills",
+                "stars": 45333
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hesreallyhim/awesome-claude-code",
+              "description": "26K+ Curated ecosystem list for Claude Code: skills, hooks, commands, apps, and plugins",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 969302809,
+                "language": "Python",
+                "last_commit": "2026-08-24T12:09:28Z",
+                "owner": "hesreallyhim",
+                "repo": "awesome-claude-code",
+                "stars": 52911
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "affaan-m/everything-claude-code",
+              "description": "60K+ Broad Claude Code ecosystem toolkit focused on performance, security, memory, and research workflows",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1136590548,
+                "language": "JavaScript",
+                "last_commit": "2026-08-24T05:00:04Z",
+                "owner": "affaan-m",
+                "repo": "ECC",
+                "stars": 242792
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Community Curations"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "K-Dense-AI/claude-scientific-skills",
+                  "description": "11.5K+ 148+ scientific skills covering 250+ databases (PubMed, ChEMBL, UniProt, COSMIC, ClinicalTrials.gov, SEC EDGAR, etc.) - a broad foundation for this project's science tier",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1079456184,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T09:22:55Z",
+                    "owner": "K-Dense-AI",
+                    "repo": "scientific-agent-skills",
+                    "stars": 34243
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "jaechang-hits/scicraft",
+                  "description": "17 140 validated life-science computational skills for AI coding agents, with CI-validated structure and workflow-oriented references",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1160505943,
+                    "language": "Python",
+                    "last_commit": "2026-08-21T06:59:43Z",
+                    "owner": "jaechang-hits",
+                    "repo": "SciAgent-Skills",
+                    "stars": 342
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Specialized Domain Tools (Top Priority)"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "K-Dense-AI/claude-scientific-writer",
+                  "description": "937 Deep research + scientific writing tool with real-time literature search and verified citations",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1084058975,
+                    "language": "Python",
+                    "last_commit": "2026-08-19T09:24:21Z",
+                    "owner": "K-Dense-AI",
+                    "repo": "claude-scientific-writer",
+                    "stars": 2246
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "HughYau/AcademicForge",
+                  "description": "250 Curated skill collection for academic writing and research workflows (focused integration over broad skill quantity)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1148878535,
+                    "language": "Python",
+                    "last_commit": "2026-08-11T11:22:16Z",
+                    "owner": "HughYau",
+                    "repo": "AcademicForge",
+                    "stars": 2478
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Agnuxo1/PaperClaw",
+                  "description": "1 Apache-licensed scientific paper generation workflow with IMRaD structure, local model support, LaTeX output, and optional Lean 4 blocks",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1235282237,
+                    "language": null,
+                    "last_commit": "2026-06-02T07:21:00Z",
+                    "owner": "Agnuxo1",
+                    "repo": "PaperClaw",
+                    "stars": 1
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Academic Writing"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Intelligent-Internet/II-Commons-Skills",
+                  "description": "2 Fast, daily-updated skill and CLI for deterministic retrieval across arXiv, PubMed/PMC, and supported US policy corpora",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1249199315,
+                    "language": "JavaScript",
+                    "last_commit": "2026-07-08T12:43:56Z",
+                    "owner": "Intelligent-Internet",
+                    "repo": "II-Commons-Skills",
+                    "stars": 15
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "yorkeccak/scientific-skills",
+                  "description": "21 Natural-language scientific literature search skills with semantic retrieval across PubMed, arXiv, ChEMBL, DrugBank, and more",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1138939717,
+                    "language": "JavaScript",
+                    "last_commit": "2026-01-21T13:00:22Z",
+                    "owner": "yorkeccak",
+                    "repo": "scientific-skills",
+                    "stars": 61
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Weizhena/Deep-Research-skills",
+                  "description": "90 Structured deep-research workflow skill (outline + investigation) with human-in-the-loop control for academic, technical, and market research",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1124477911,
+                    "language": "Python",
+                    "last_commit": "2026-08-23T03:25:28Z",
+                    "owner": "Weizhena",
+                    "repo": "Deep-Research-skills",
+                    "stars": 2011
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Literature Search"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "HughYau/neuroforge-skills",
+                  "description": "1 Neuroscience skill set built around major Python toolchains (Brian2, MNE-Python, Nilearn, SpikeInterface, pyNIBS)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1166139562,
+                    "language": "Python",
+                    "last_commit": "2026-02-24T23:12:11Z",
+                    "owner": "HughYau",
+                    "repo": "neuroforge-skills",
+                    "stars": 4
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "HaoxuanLiTHUAI/awesome_cognitive_and_neuroscience_skills",
+                  "description": "9 Cognitive science and neuroscience skill collection spanning EEG/ERP, fMRI, modeling, and subdomains; repository notes substantial AI-generated content",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1169271292,
+                    "language": "Python",
+                    "last_commit": "2026-07-13T09:51:08Z",
+                    "owner": "NeuroAIHub",
+                    "repo": "awesome_cognitive_and_neuroscience_skills",
+                    "stars": 35
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Neuroscience"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Science-Specific"
+        }
+      ],
+      "title": "Skill Sources"
+    },
+    {
+      "description": "Companion open-source tools from our team for skill generation and repository evaluation:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "K-Dense-AI/claude-scientific-writer",
+          "description": "Deep research + scientific writing tool with real-time literature search and verified citations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1084058975,
+            "language": "Python",
+            "last_commit": "2026-08-19T09:24:21Z",
+            "owner": "K-Dense-AI",
+            "repo": "claude-scientific-writer",
+            "stars": 2246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "K-Dense-AI/claude-skills-mcp",
+          "description": "MCP server for vector-search-based skill retrieval",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1080225523,
+            "language": "Python",
+            "last_commit": "2026-07-20T18:02:06Z",
+            "owner": "K-Dense-AI",
+            "repo": "claude-skills-mcp",
+            "stars": 398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qishisuren123/skiller",
+          "description": "Skiller - an automated skill generation tool that turns conversation logs or plain-text requirements into standards-compliant skill packages in one shot; validated under a full static-evaluation rubric and improves by 57 percentage points over the no-skill baseline",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1175303530,
+            "language": "Python",
+            "last_commit": "2026-03-16T07:01:16Z",
+            "owner": "qishisuren123",
+            "repo": "skiller",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ddd9898/skill-metric",
+          "description": "A skills evaluation framework that screens high-quality skill repositories across three dimensions and provides structured metrics for skill quality assessment",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1174221628,
+            "language": "Python",
+            "last_commit": "2026-03-08T12:11:24Z",
+            "owner": "ddd9898",
+            "repo": "skill-metric",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Related Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:00:09.956Z",
+    "last_updated": "2026-08-24T14:24:16.885Z",
     "original_repository": "InternScience/Awesome-Scientific-Skills",
     "original_repository_id": 1171290857,
     "original_repository_sha": "e67760e2081508773a59398f72bf808f3ac3217c",
