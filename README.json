@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A skill for verifing the quality of agent skills.",
+            "homepage": null,
             "id": 1174221628,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-08T12:11:24Z",
+            "open_issues": 0,
             "owner": "ddd9898",
             "repo": "skill-metric",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:41.101Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Skiller — Automated Skill Package Generators",
+            "homepage": null,
             "id": 1175303530,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-16T07:01:16Z",
+            "open_issues": 0,
             "owner": "qishisuren123",
             "repo": "skiller",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:41.101Z"
         }
@@ -50,12 +60,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Public repository for Agent Skills",
+                "homepage": null,
                 "id": 1061953414,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-21T17:10:55Z",
+                "open_issues": 1186,
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 172266
+                "stars": 172317,
+                "topics": [
+                  "agent-skills"
+                ]
               },
               "first_seen": "2026-08-28T20:10:41.101Z"
             },
@@ -66,12 +83,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Skills Catalog for Codex",
+                "homepage": null,
                 "id": 1103643573,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-14T16:47:46Z",
+                "open_issues": 289,
                 "owner": "openai",
                 "repo": "skills",
-                "stars": 25250
+                "stars": 25258,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:41.101Z"
             },
@@ -82,12 +104,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Give your agents the power of the Hugging Face ecosystem",
+                "homepage": "https://huggingface.co",
                 "id": 1102903896,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T14:52:20Z",
+                "open_issues": 44,
                 "owner": "huggingface",
                 "repo": "skills",
-                "stars": 10977
+                "stars": 10981,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:41.101Z"
             },
@@ -98,12 +125,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Skill + Plugin Registry for OpenClaw",
+                "homepage": "https://clawhub.ai",
                 "id": 1127248221,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T18:04:42Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T02:39:01Z",
+                "open_issues": 50,
                 "owner": "openclaw",
                 "repo": "clawhub",
-                "stars": 9364
+                "stars": 9366,
+                "topics": [
+                  "directory",
+                  "skill"
+                ]
               },
               "first_seen": "2026-08-28T20:10:41.101Z"
             }
@@ -121,12 +156,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞",
+                "homepage": "https://clawskills.sh/",
                 "id": 1141704318,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-23T08:45:20Z",
+                "open_issues": 1,
                 "owner": "VoltAgent",
                 "repo": "awesome-openclaw-skills",
-                "stars": 52221
+                "stars": 52225,
+                "topics": [
+                  "agent-skills",
+                  "awesome",
+                  "awesome-list",
+                  "awesome-lists",
+                  "clawd",
+                  "clawdbot",
+                  "clawdbot-skill",
+                  "clawdhub",
+                  "moltbot",
+                  "moltbot-skills",
+                  "openclaw",
+                  "openclaw-skills"
+                ]
               },
               "first_seen": "2026-08-28T20:10:41.101Z"
             },
@@ -137,12 +190,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code",
+                "homepage": null,
                 "id": 1077850011,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-04-28T19:30:24Z",
+                "open_issues": 773,
                 "owner": "travisvn",
                 "repo": "awesome-claude-skills",
-                "stars": 14870
+                "stars": 14873,
+                "topics": [
+                  "agentic-coding",
+                  "anthropic",
+                  "awesome",
+                  "awesome-list",
+                  "awesome-lists",
+                  "claude",
+                  "claude-ai",
+                  "claude-code",
+                  "claude-desktop",
+                  "claude-skills",
+                  "claudeskills"
+                ]
               },
               "first_seen": "2026-08-28T20:10:41.101Z"
             },
@@ -153,12 +223,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+                "homepage": null,
                 "id": 1078079172,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-10T21:45:44Z",
+                "open_issues": 1346,
                 "owner": "ComposioHQ",
                 "repo": "awesome-claude-skills",
-                "stars": 73811
+                "stars": 73827,
+                "topics": [
+                  "agent-skills",
+                  "ai-agents",
+                  "antigravity",
+                  "automation",
+                  "claude",
+                  "claude-code",
+                  "codex",
+                  "composio",
+                  "cursor",
+                  "developer-tools",
+                  "gemini-cli",
+                  "mcp",
+                  "openai-codex",
+                  "rube",
+                  "saas",
+                  "skill",
+                  "workflow-automation"
+                ]
               },
               "first_seen": "2026-08-28T20:10:41.101Z"
             },
@@ -169,12 +262,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tutorials, Guides and Agent Skills Directories",
+                "homepage": "http://agent-skill.co",
                 "id": 1124920990,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-05T20:39:24Z",
+                "open_issues": 278,
                 "owner": "heilcheng",
                 "repo": "awesome-agent-skills",
-                "stars": 6151
+                "stars": 6151,
+                "topics": [
+                  "agent-skills",
+                  "ai-agents",
+                  "ai-development",
+                  "anthropic",
+                  "automation",
+                  "awesome",
+                  "awesome-list",
+                  "claude",
+                  "codex",
+                  "github-copilot",
+                  "llm",
+                  "mcp",
+                  "openai",
+                  "productivity",
+                  "skill-md",
+                  "vscode"
+                ]
               },
               "first_seen": "2026-08-28T20:10:41.101Z"
             },
@@ -185,12 +300,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1024351267,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-06-03T09:48:41Z",
+                "open_issues": 1,
                 "owner": "InternScience",
                 "repo": "scp",
-                "stars": 165
+                "stars": 165,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:41.101Z"
             },
@@ -201,12 +321,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An agentic skills framework & software development methodology that works.",
+                "homepage": null,
                 "id": 1073224795,
                 "language": "Shell",
-                "last_commit": "2026-08-19T17:33:23Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:21:18Z",
+                "open_issues": 332,
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 279012
+                "stars": 279105,
+                "topics": [
+                  "ai",
+                  "brainstorming",
+                  "coding",
+                  "obra",
+                  "sdlc",
+                  "skills",
+                  "subagent-driven-development",
+                  "superpowers"
+                ]
               },
               "first_seen": "2026-08-28T20:10:41.101Z"
             },
@@ -217,12 +351,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vercel's official collection of agent skills",
+                "homepage": "https://skills.sh/vercel-labs/agent-skills",
                 "id": 1112540808,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-08-28T13:36:31Z",
+                "open_issues": 173,
                 "owner": "vercel-labs",
                 "repo": "agent-skills",
-                "stars": 30587
+                "stars": 30596,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:41.101Z"
             },
@@ -233,12 +372,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
+                "homepage": "https://www.uupm.cc/",
                 "id": 1106996539,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T09:15:37Z",
+                "open_issues": 90,
                 "owner": "nextlevelbuilder",
                 "repo": "ui-ux-pro-max-skill",
-                "stars": 122540
+                "stars": 122627,
+                "topics": [
+                  "ai-skills",
+                  "antigravity",
+                  "claude",
+                  "claude-code",
+                  "codex",
+                  "command-line",
+                  "copilot",
+                  "cursor-ai",
+                  "html5",
+                  "kiro",
+                  "landing-page",
+                  "mobile-ui",
+                  "qoder",
+                  "react",
+                  "tailwindcss",
+                  "trae",
+                  "ui-design",
+                  "uikit",
+                  "windsurf-ai"
+                ]
               },
               "first_seen": "2026-08-28T20:10:41.101Z"
             },
@@ -249,12 +413,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+                "homepage": "https://marketing-skills.com",
                 "id": 1135212071,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T19:16:40Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T22:23:47Z",
+                "open_issues": 104,
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 45978
+                "stars": 46007,
+                "topics": [
+                  "claude",
+                  "codex",
+                  "marketing"
+                ]
               },
               "first_seen": "2026-08-28T20:10:41.101Z"
             },
@@ -265,12 +438,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Specification and documentation for Agent Skills",
+                "homepage": "https://agentskills.io",
                 "id": 1117639997,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-09T20:36:04Z",
+                "open_issues": 74,
                 "owner": "agentskills",
                 "repo": "agentskills",
-                "stars": 24824
+                "stars": 24835,
+                "topics": [
+                  "agent-skills"
+                ]
               },
               "first_seen": "2026-08-28T20:10:41.101Z"
             },
@@ -281,12 +461,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
+                "homepage": null,
                 "id": 1126947080,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-06-08T16:12:01Z",
+                "open_issues": 64,
                 "owner": "kepano",
                 "repo": "obsidian-skills",
-                "stars": 47440
+                "stars": 47463,
+                "topics": [
+                  "agents",
+                  "agentskills",
+                  "bases",
+                  "claude",
+                  "clawdbot",
+                  "cli",
+                  "codex",
+                  "defuddle",
+                  "hermes",
+                  "jsoncanvas",
+                  "markdown",
+                  "md",
+                  "obsidian",
+                  "openclaw",
+                  "opencode",
+                  "skills"
+                ]
               },
               "first_seen": "2026-08-28T20:10:41.101Z"
             },
@@ -297,12 +499,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
+                "homepage": null,
                 "id": 1120349776,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-19T01:55:00Z",
+                "open_issues": 52,
                 "owner": "muratcankoylan",
                 "repo": "Agent-Skills-for-Context-Engineering",
-                "stars": 17856
+                "stars": 17857,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:41.101Z"
             },
@@ -313,12 +520,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build your agent from 200,000+ skills via skill RETRIEVAL & ORCHESTRATION",
+                "homepage": null,
                 "id": 1141918448,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-03-07T16:51:24Z",
+                "open_issues": 2,
                 "owner": "ynulihao",
                 "repo": "AgentSkillOS",
-                "stars": 610
+                "stars": 610,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:41.101Z"
             },
@@ -329,12 +541,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.",
+                "homepage": "https://www.skills.sh/othmanadi/planning-with-files/planning-with-files",
                 "id": 1127110039,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-08-22T11:09:40Z",
+                "open_issues": 11,
                 "owner": "OthmanAdi",
                 "repo": "planning-with-files",
-                "stars": 26406
+                "stars": 26408,
+                "topics": [
+                  "agent-skills",
+                  "autonomous-agents",
+                  "claude",
+                  "claude-code",
+                  "claude-code-skills",
+                  "claude-skills",
+                  "codex",
+                  "coding-agent",
+                  "context-engineering",
+                  "context-rot",
+                  "cursor",
+                  "github-copilot",
+                  "hermes-plugin",
+                  "hermes-skill",
+                  "llm-agents",
+                  "long-running-agents",
+                  "manus",
+                  "multi-agent-systems",
+                  "planning",
+                  "session-recovery"
+                ]
               },
               "first_seen": "2026-08-28T20:10:41.101Z"
             },
@@ -345,12 +583,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,005+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
+                "homepage": "https://sickn33.github.io/agentic-awesome-skills/",
                 "id": 1134426800,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T08:51:32Z",
+                "open_issues": 1,
                 "owner": "sickn33",
                 "repo": "agentic-awesome-skills",
-                "stars": 45599
+                "stars": 45615,
+                "topics": [
+                  "agent-skills",
+                  "agentic-skills",
+                  "ai-agent-skills",
+                  "ai-agents",
+                  "ai-coding",
+                  "ai-workflows",
+                  "antigravity",
+                  "antigravity-skills",
+                  "claude-code",
+                  "claude-code-skills",
+                  "codex-cli",
+                  "codex-skills",
+                  "cursor",
+                  "cursor-skills",
+                  "developer-tools",
+                  "gemini-cli",
+                  "gemini-skills",
+                  "kiro",
+                  "mcp",
+                  "skill-library"
+                ]
               },
               "first_seen": "2026-08-28T20:10:41.101Z"
             },
@@ -361,12 +625,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+                "homepage": null,
                 "id": 969302809,
                 "language": "Python",
-                "last_commit": "2026-08-28T16:08:58Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T03:10:54Z",
+                "open_issues": 945,
                 "owner": "hesreallyhim",
                 "repo": "awesome-claude-code",
-                "stars": 53134
+                "stars": 53148,
+                "topics": [
+                  "agent-skills",
+                  "agentic-code",
+                  "agentic-coding",
+                  "ai-workflow-optimization",
+                  "ai-workflows",
+                  "anthropic",
+                  "anthropic-claude",
+                  "awesome",
+                  "awesome-claude-code",
+                  "awesome-list",
+                  "awesome-lists",
+                  "awesome-resources",
+                  "claude",
+                  "claude-code",
+                  "coding-agent",
+                  "coding-agents",
+                  "coding-assistant",
+                  "coding-assistants",
+                  "llm"
+                ]
               },
               "first_seen": "2026-08-28T20:10:41.101Z"
             },
@@ -377,12 +666,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+                "homepage": "https://ecc.tools",
                 "id": 1136590548,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T18:02:10Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T04:22:27Z",
+                "open_issues": 146,
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 243948
+                "stars": 244000,
+                "topics": [
+                  "ai-agents",
+                  "anthropic",
+                  "claude",
+                  "claude-code",
+                  "developer-tools",
+                  "llm",
+                  "mcp",
+                  "productivity"
+                ]
               },
               "first_seen": "2026-08-28T20:10:41.101Z"
             }
@@ -402,12 +705,35 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+                    "homepage": "https://k-dense.ai",
                     "id": 1079456184,
                     "language": "Python",
-                    "last_commit": "2026-08-24T09:22:55Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-28T21:41:24Z",
+                    "open_issues": 16,
                     "owner": "K-Dense-AI",
                     "repo": "scientific-agent-skills",
-                    "stars": 36389
+                    "stars": 36830,
+                    "topics": [
+                      "agent-skills",
+                      "ai-scientist",
+                      "bioinformatics",
+                      "chemoinformatics",
+                      "claude",
+                      "claude-skills",
+                      "claudecode",
+                      "clinical-research",
+                      "computational-biology",
+                      "data-analysis",
+                      "drug-discovery",
+                      "genomics",
+                      "materials-science",
+                      "metabolomics",
+                      "proteomics",
+                      "scientific-computing",
+                      "scientific-visualization"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:41.101Z"
                 },
@@ -418,12 +744,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "197 bioinformatics & life science skills for Claude Code and AI agents — BixBench 92.0% accuracy. RNA-seq, single-cell, drug discovery, proteomics, and more. Powers OmicsHorizon.",
+                    "homepage": "https://omicshorizon.ai/en/",
                     "id": 1160505943,
                     "language": "Python",
-                    "last_commit": "2026-08-27T05:17:53Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-29T00:42:20Z",
+                    "open_issues": 6,
                     "owner": "jaechang-hits",
                     "repo": "SciAgent-Skills",
-                    "stars": 350
+                    "stars": 351,
+                    "topics": [
+                      "ai-agent",
+                      "bioinformatics",
+                      "biostatistics",
+                      "bixbench",
+                      "cheminformatics",
+                      "claude-code",
+                      "claude-plugin",
+                      "claude-skills",
+                      "computational-biology",
+                      "drug-discovery",
+                      "genomics",
+                      "life-sciences",
+                      "omicshorizon",
+                      "open-source",
+                      "proteomics",
+                      "rna-seq",
+                      "scientific-computing",
+                      "scientific-skills",
+                      "single-cell",
+                      "skills-library"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:41.101Z"
                 }
@@ -441,12 +793,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A general purpose scientific writer",
+                    "homepage": "https://k-dense.ai",
                     "id": 1084058975,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-19T09:24:21Z",
+                    "open_issues": 3,
                     "owner": "K-Dense-AI",
                     "repo": "claude-scientific-writer",
-                    "stars": 2263
+                    "stars": 2265,
+                    "topics": [
+                      "ai-agents",
+                      "anthropic",
+                      "claude",
+                      "skills",
+                      "tools",
+                      "writer"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:41.101Z"
                 },
@@ -457,12 +821,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "One Forge, All Skills: A curated skill collection for academic writing and research.  点开即用，按需配置的一站式学术研究skills平台。",
+                    "homepage": "http://hughyau.com/AcademicForge/",
                     "id": 1148878535,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-11T11:22:16Z",
+                    "open_issues": 2,
                     "owner": "HughYau",
                     "repo": "AcademicForge",
-                    "stars": 2491
+                    "stars": 2492,
+                    "topics": [
+                      "ai",
+                      "ai-for-research",
+                      "research-tool",
+                      "scientific-agents",
+                      "skills"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:41.101Z"
                 },
@@ -473,12 +848,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "AI-Powered Scientific Paper Generation for Empirical Research — Part of P2PCLAW Ecosystem",
+                    "homepage": null,
                     "id": 1235282237,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2026-06-02T07:21:00Z",
+                    "open_issues": 0,
                     "owner": "Agnuxo1",
                     "repo": "PaperClaw",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:41.101Z"
                 }
@@ -496,12 +876,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fast, daily-updated skill and CLI for arXiv, PubMed, PMC, and policy retrieval",
+                    "homepage": "https://commons.ii.inc/",
                     "id": 1249199315,
                     "language": "JavaScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-08T12:43:56Z",
+                    "open_issues": 1,
                     "owner": "Intelligent-Internet",
                     "repo": "II-Commons-Skills",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": [
+                      "arxiv",
+                      "cli",
+                      "daily-updated",
+                      "ii-commons",
+                      "pmc",
+                      "policy",
+                      "pubmed",
+                      "research",
+                      "retrieval",
+                      "skill"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:41.101Z"
                 },
@@ -512,12 +908,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Natural language scientific literature search skills with semantic search over PubMed, arXiv, ChEMBL, DrugBank, bioRxiv, medRxiv, clinical trials, and more with zero API complexity.",
+                    "homepage": null,
                     "id": 1138939717,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-01-21T13:00:22Z",
+                    "open_issues": 2,
                     "owner": "yorkeccak",
                     "repo": "scientific-skills",
-                    "stars": 61
+                    "stars": 61,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:41.101Z"
                 },
@@ -528,12 +929,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Structured deep research skill for Claude Code/Open Code/Codex with human-in-the-loop control",
+                    "homepage": null,
                     "id": 1124477911,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-23T03:25:28Z",
+                    "open_issues": 0,
                     "owner": "Weizhena",
                     "repo": "Deep-Research-skills",
-                    "stars": 2047
+                    "stars": 2050,
+                    "topics": [
+                      "claude-code",
+                      "claude-code-skills",
+                      "deep-research-agent",
+                      "gpt-skills",
+                      "llm-agent",
+                      "opencode",
+                      "opencode-skills",
+                      "research"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:41.101Z"
                 }
@@ -551,12 +966,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "NeuroForge-Skills 是一套面向神经科学与脑科学领域常用 Python 库的 AI Skill 集合，基于 OpenSci-Skill 创建",
+                    "homepage": null,
                     "id": 1166139562,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-02-24T23:12:11Z",
+                    "open_issues": 0,
                     "owner": "HughYau",
                     "repo": "neuroforge-skills",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:41.101Z"
                 },
@@ -567,12 +987,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1169271292,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-13T09:51:08Z",
+                    "open_issues": 0,
                     "owner": "NeuroAIHub",
                     "repo": "awesome_cognitive_and_neuroscience_skills",
-                    "stars": 37
+                    "stars": 37,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:41.101Z"
                 }
@@ -599,12 +1024,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A general purpose scientific writer",
+            "homepage": "https://k-dense.ai",
             "id": 1084058975,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-19T09:24:21Z",
+            "open_issues": 3,
             "owner": "K-Dense-AI",
             "repo": "claude-scientific-writer",
-            "stars": 2263
+            "stars": 2265,
+            "topics": [
+              "ai-agents",
+              "anthropic",
+              "claude",
+              "skills",
+              "tools",
+              "writer"
+            ]
           },
           "first_seen": "2026-08-28T20:10:41.101Z"
         },
@@ -615,12 +1052,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server for searching and retrieving Scientific Agent Skills using vector search",
+            "homepage": null,
             "id": 1080225523,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-20T18:02:06Z",
+            "open_issues": 0,
             "owner": "K-Dense-AI",
             "repo": "claude-skills-mcp",
-            "stars": 400
+            "stars": 400,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:41.101Z"
         },
@@ -631,12 +1073,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Skiller — Automated Skill Package Generators",
+            "homepage": null,
             "id": 1175303530,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-16T07:01:16Z",
+            "open_issues": 0,
             "owner": "qishisuren123",
             "repo": "skiller",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:41.101Z"
         },
@@ -647,12 +1094,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A skill for verifing the quality of agent skills.",
+            "homepage": null,
             "id": 1174221628,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-08T12:11:24Z",
+            "open_issues": 0,
             "owner": "ddd9898",
             "repo": "skill-metric",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:41.101Z"
         }
@@ -661,15 +1113,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:10:41.101Z",
+    "last_updated": "2026-08-29T04:45:12.998Z",
     "original_repository_info": {
       "archived": false,
+      "description": "An open, curated collection of Agent Skills for scientific research — clone it, use it, extend it!",
+      "homepage": null,
       "id": 1171290857,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-08-13T09:28:38Z",
+      "open_issues": 9,
       "owner": "InternScience",
       "repo": "Awesome-Scientific-Skills",
-      "stars": 524
+      "stars": 525,
+      "topics": [
+        "agent-skills",
+        "awesome-list",
+        "openclaw-skills",
+        "scientific-data",
+        "scientific-discovery",
+        "scientific-skill"
+      ]
     },
     "original_repository_sha": "e67760e2081508773a59398f72bf808f3ac3217c",
     "enhanced_repository": "enhansome/enhansome-Awesome-Scientific-Skills",
